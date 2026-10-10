@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I041
 ### Team Details
-#### **Team Name** <AURA> <br/>
+#### **Team Name** AURA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:| 
